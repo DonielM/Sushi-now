@@ -10,7 +10,7 @@ View Shushi Now https://donielm.github.io/Sushi-now/
 
 - As a user, I want to understand the purpose of the website quickly.
 - As a user, I want to navigate easily between sections.
-- As a user, I want to learn about the fitness and coaching support available.
+- As a user, I want to learn about sushi delivery.
 - As a user, I want to view the website easily on desktop, tablet and mobile.
 
 ### Strategy and Scope
@@ -57,3 +57,38 @@ The lighter neutral colours Palette creates a modern look and contrasts with the
 AI was used to support project planning, code suggestions, explanations, troubleshooting and content development.
 
 AI suggestions were reviewed, adapted and tested before being used in the final project.
+
+### Validation
+
+#### HTML
+
+The HTML was tested using the W3C Markup Validator and returned no errors or warnings.
+<img src="./assets/html.png" alt="HTML validation showing no errors or warnings" width="300">
+
+#### CSS
+
+The CSS was tested using the W3C CSS Validator and returned no errors.
+<img src="./assets/css.png" alt="CSS validation showing no errors" width="300">
+
+## Deployment
+
+The website was deployed using GitHub Pages.
+Steps:
+
+1. Open the GitHub repository.
+2. Go to Settings > Pages.
+3. Select Deploy from a branch.
+4. Select `master` and `/root`.
+5. Save and open the generated live link.
+
+## Testing
+
+The website was manually tested to make sure the main features work correctly.
+Checks included:
+
+- navigation links
+- images loading correctly
+- keyboard navigation
+- heading structure
+- alt text
+- desktop, tablet and mobile layouts
