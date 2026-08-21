@@ -38,3 +38,22 @@ Checks included:
 - heading structure
 - alt text
 - desktop, tablet and mobile layouts
+
+### Colour Scheme
+
+--color-creamson: #fff0de;
+--color-white: #fff;
+--black-200: #020202;
+--black-300: #333333;
+--black-400: #1f1e31;
+--black-500: #555555;
+--gray-100: #888888;
+--color-red: #b1454a;
+
+The lighter neutral colours Palette creates a modern look and contrasts with the striking red and black
+
+## AI Use
+
+AI was used to support project planning, code suggestions, explanations, troubleshooting and content development.
+
+AI suggestions were reviewed, adapted and tested before being used in the final project.
